@@ -7,11 +7,7 @@
 </div>
   
   
-  ## Contato
-  <a href="https://www.linkedin.com/in/filipe-mateus-7a99771b8/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60"
-  <a/>
-    
+  ##
   
   ## Linguagens 
     
