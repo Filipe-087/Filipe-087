@@ -1,4 +1,7 @@
-### Olá! Eu sou Filipe Mateus  !
+### Olá! Eu sou Filipe Mateus 😀
+
+* Disponivel para oportunidades de trabalho!
+* Estudante .NET e C#
 
 <div align="center">
   <a href="https://github.com/Filipe-087">
